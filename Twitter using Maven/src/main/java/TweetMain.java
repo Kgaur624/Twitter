@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
-public class Twitter {
+public class TweetMain {
 
     public static void main(String[] args) {
         if (args.length < 1) {
